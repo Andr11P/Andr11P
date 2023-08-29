@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I started coding on C# to make games on Unity Engine**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
