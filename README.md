@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Networking and basic Security**
 
-- 📫 How to reach me <a src="andrewpohorielov5@gmail.com">Email</a>
+- 📫 How to reach me <a href="andrewpohorielov5@gmail.com">Email</a>
 
 - ⚡ Fun fact **I started coding on C# to make games on Unity Engine**
 
