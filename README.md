@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Full Stack Dev🇺🇦🇨🇦</h3>
 <img align="right" width="500" src="https://i.pinimg.com/originals/0a/41/8a/0a418a8c286f0aab158e7b98f6082479.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andr11p&label=Profile%20views&color=0e75b6&style=flat" alt="andr11p" /> </p>
+
 
 - 🌱 I’m currently learning **Spring**
 
