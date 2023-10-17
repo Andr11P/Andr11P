@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Networking and basic Security**
 
