@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">A Junior Full Stack Dev🇺🇦🇨🇦</h3>
-<img align="right" width="500" src="https://i.pinimg.com/originals/0a/41/8a/0a418a8c286f0aab158e7b98f6082479.gif"/>
+<img align="right" width="600" src="https://images-cdn.exchange.art/wNV3fnfKOrJEKbl2k9p3XB_8omfHDG7pgb_e-1Z549o?ext=fastly&optimize=medium&auto=avifwebp"/>
 
 
 
