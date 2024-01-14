@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">A Junior Full Stack Dev🇺🇦🇨🇦</h3>
+<h3 align="center">A Full Stack Dev🇺🇦🇨🇦</h3>
 <img align="right" width="600" src="https://images-cdn.exchange.art/wNV3fnfKOrJEKbl2k9p3XB_8omfHDG7pgb_e-1Z549o?ext=fastly&optimize=medium&auto=avifwebp"/>
 
 
