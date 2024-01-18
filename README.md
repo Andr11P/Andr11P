@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Networking and basic CyberSecurity issues**
+- 💬 Ask me about **Hardware or Internet Protocols**
 
 - 📫 How to reach me <a href="andrewpohorielov5@gmail.com">Email</a>
 
